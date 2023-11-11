@@ -1,0 +1,78 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Mulish:ital,wght@1,300 & display=swap');
+
+h1{
+    font-family: 'Mulish', sans-serif;;
+    }
+
+    h2{
+        font-family: 'Mulish', sans-serif;;
+        }
+
+        h3{
+            font-family: 'Mulish', sans-serif;;
+            }
+            div{
+                font-family: 'Mulish', sans-serif;;
+                }
+
+            h4{
+                font-family: 'Mulish', sans-serif;;
+                }
+
+
+
+                h5{
+                    font-family: 'Mulish', sans-serif;;
+                    }
+
+                p{
+                    font-family: 'Mulish', sans-serif;;
+                     }
+                     th{
+                        font-family: 'Mulish', sans-serif;;
+                        }
+                        td{
+                            font-family: 'Mulish', sans-serif;;
+                            }
+
+    body{
+background-color: cornflowerblue;
+background-image: url(Seleccion\ argentina.webp);
+background-position: center center;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+.texto-centrado{
+background-color: white;
+
+
+
+
+}
+
+.texto-centrado2{
+    background-color: white
+    
+    
+    
+    }
+.texto-centrado3{
+    background-color: cornflowerblue
+        
+        
+    }
+.titulo{
+    
+background-color: whitesmoke;
+
+}
+.color-acordeon{
+    background-color: blue;
+    
+    }
+.Mesi1{
+    margin: auto;
+    
+    }
